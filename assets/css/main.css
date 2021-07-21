@@ -33,7 +33,7 @@
     display: none;
 }
 
-.menu.dropdown ul li:hover > ul {
+.menu.dropdown ul li:hover > ul, .menu.dropdown ul li:active > ul {
     display: block;
 }
 
