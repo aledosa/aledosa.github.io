@@ -1,4 +1,3 @@
-AJ
-aj@lkn.io | @ajlkn
+Main github page made on CSS and HTML.
 
-html5up.net | @ajlkn
+Design and pictures are property of Alexa Dominguez.
