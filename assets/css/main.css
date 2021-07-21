@@ -4,10 +4,12 @@
 }
 
 .menu.dropdown {
+    background-color: rgba(255, 255, 255);
     display: flex;
     justify-content: center;
     height: 50px;
     margin: 0;
+    opacity: 0.6;
     width: 100%;
 }
 
@@ -16,9 +18,9 @@
 }
 
 .menu.dropdown ul li{
-    background-color: #ebf8a18c;
-    color: white;
-    float:left;
+    background-color: rgba(255, 255, 255);
+    color: #A67C00;
+    float: left;
     font-size: 25px;
     height: 50px;
     line-height: 50px;
@@ -36,7 +38,7 @@
 }
 
 .menu.dropdown ul li:hover {
-    background-color: rgba(255, 255, 255, 0.582);
+    background-color: #ebf8a1d3;
 }
 
 header {
@@ -57,6 +59,7 @@ header {
 
 .alexa.referal {
     color: #ebf8a1d3;
+    /* color: #A67C00; */
     margin-left: 8px;
 }
 
