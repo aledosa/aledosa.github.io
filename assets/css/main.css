@@ -3,6 +3,42 @@
     padding: 0;
 }
 
+.menu.dropdown {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin: 0;
+    width: 100%;
+}
+
+.menu.dropdown ul{
+    padding: 0;
+}
+
+.menu.dropdown ul li{
+    background-color: #ebf8a18c;
+    color: white;
+    float:left;
+    font-size: 25px;
+    height: 50px;
+    line-height: 50px;
+    list-style: none;
+    text-align: center;
+    width: 200px;
+}
+
+.menu.dropdown ul li ul{
+    display: none;
+}
+
+.menu.dropdown ul li:hover > ul {
+    display: block;
+}
+
+.menu.dropdown ul li:hover {
+    background-color: rgba(255, 255, 255, 0.582);
+}
+
 header {
     align-items: center;
     display: flex;
@@ -13,15 +49,15 @@ header {
 .main.title {
     align-items: center;
     border: white;
-    color: rgba(255, 255, 255, 0.582);
+    color: white;
     display: flex;
     font-size: 32px;
     justify-content: center;
 }
 
 .alexa.referal {
-    color: #ebf8a18c;
-    margin-left: 5px;
+    color: #ebf8a1d3;
+    margin-left: 8px;
 }
 
 .copyright {
