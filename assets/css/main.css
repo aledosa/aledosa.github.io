@@ -73,11 +73,6 @@ header {
 .github.referal {
     color: rgba(255, 255, 255, 0.582);
     margin-left: 5px;
-    text-decoration: none;
-}
-
-.github.referal:hover {
-    text-decoration: underline;
 }
 
 section {
