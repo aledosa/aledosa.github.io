@@ -66,7 +66,7 @@ export function AboutSection() {
           >
             <h3 className="text-2xl font-light text-gray-900 mb-6 tracking-tight">My Approach</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              With over 5 years of experience in front-end development, I've cultivated a deep understanding of creating
+              With over 5 years of experience in front-end development, I&apos;ve cultivated a deep understanding of creating
               seamless, accessible, and performant web applications. My journey began with a passion for the
               intersection of consulting and technology, which has guided my career ever since.
             </p>

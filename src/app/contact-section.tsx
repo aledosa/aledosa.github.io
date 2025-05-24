@@ -63,7 +63,7 @@ export function ContactSection() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <div className="text-sm font-medium uppercase tracking-widest text-purple-400 mb-2">Contact</div>
-          <h2 className="text-4xl font-light text-gray-900 mb-4 tracking-tight">Let's discuss your project</h2>
+          <h2 className="text-4xl font-light text-gray-900 mb-4 tracking-tight">Let&apos;s discuss your project</h2>
           <div className="w-[60px] h-[2px] bg-purple-400 mx-auto"></div>
         </div>
 
@@ -73,8 +73,8 @@ export function ContactSection() {
             data-animation="slide-right"
           >
             <p className="text-lg text-gray-600 mb-10 leading-relaxed">
-              I'm currently available for freelance work and full-time opportunities. If you're looking for a front-end
-              engineer who can bring your vision to life with elegance and precision, let's connect.
+              I&apos;m currently available for freelance work and full-time opportunities. If you&apos;re looking for a front-end
+              engineer who can bring your vision to life with elegance and precision, let&apos;s connect.
             </p>
 
             <div className="flex flex-col gap-8">

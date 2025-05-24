@@ -85,7 +85,7 @@ export function SkillsSection() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          {skills.map((skill, index) => (
+          {skills.map((skill) => (
             <div
               key={skill.title}
               className="skill-card bg-white rounded-md p-8 shadow-sm transition-all duration-500 ease-out opacity-0 translate-y-5 hover:-translate-y-1 hover:shadow-md h-full"
