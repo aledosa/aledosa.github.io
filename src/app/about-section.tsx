@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useRef } from "react"
-import Image from "next/image"
+// import Image from "next/image"
 
 export function AboutSection() {
   const sectionRef = useRef<HTMLDivElement>(null)
@@ -48,8 +48,15 @@ export function AboutSection() {
           >
             <div className="relative">
               <div className="rounded-md overflow-hidden shadow-lg">
-                <Image
+                {/* <Image
                   src="/images/team-working.jpg"
+                  alt="Software Development"
+                  width={600}
+                  height={600}
+                  className="w-full h-auto block transition-transform duration-500 hover:scale-103"
+                /> */}
+                <img
+                  src="./images/team-working.jpg"
                   alt="Software Development"
                   width={600}
                   height={600}
