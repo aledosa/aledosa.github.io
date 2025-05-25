@@ -1,4 +1,4 @@
-# React + TypeScript + ESLint + Turbopack
+# Next.js + React + TypeScript + ESLint + Turbopack
 
 Portafolio Page built in different framework.
 
