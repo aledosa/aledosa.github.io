@@ -149,7 +149,7 @@ export function ProjectsSection() {
         </div>
 
         <div className="text-center mt-16">
-          <Link href="https://aledosa.github.io/aledosa1.github.io/" >
+          <Link href="https://aledosa.github.io/portfolio_v1/" >
             <button className="inline-flex items-center justify-center text-indigo-700 font-medium px-4 py-2 border-b border-transparent transition-all hover:border-indigo-700">
               View Fun Playground <ArrowUpRight className="ml-2 h-4 w-4" />
             </button>
