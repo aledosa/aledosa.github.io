@@ -105,7 +105,7 @@ export function ContactSection() {
                 <div>
                   <h4 className="text-base font-medium text-gray-900 mb-1">Location</h4>
                   <p className="text-gray-600 leading-relaxed">
-                    Austin, TX
+                    Austin, TX | Merida, MX
                     <br />
                     Available for remote work worldwide
                   </p>

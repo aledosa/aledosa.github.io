@@ -88,7 +88,7 @@ export function AboutSection() {
               <div>
                 <h4 className="text-base font-semibold text-gray-900 mb-2">Location</h4>
                 <p className="text-gray-600 leading-relaxed">
-                  Austin, TX
+                  Austin, TX | Merida, MX
                   <br />
                   Available for remote work
                 </p>
