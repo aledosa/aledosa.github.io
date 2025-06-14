@@ -19,6 +19,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Portfolio Frontend",
   description: "Resume of Frontend work",
+  icons: "/clover.svg",
 };
 
 export default function RootLayout({
